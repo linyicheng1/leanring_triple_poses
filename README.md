@@ -77,5 +77,5 @@ t02:
  1.99962
 ```
 
-You can find the correct result in the output bit position, if not you need to run the programme again.
+You can find the correct result in the output poses, if not you need to run the programme again.
 
