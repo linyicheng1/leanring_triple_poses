@@ -2,6 +2,14 @@
 
 Based on CVPR2022 best paper **Learning to Solve Hard Minimal Problems** implements solving the relative position of three images.
 
+> **Note**
+> The correctness of the pose solving is lower than the results in the paper. 
+
+We think the main reasons for this are:
+- Randomised feature point selection
+- Generalisation of training results
+
+
 ## 1. Build
 
 ### 1.1 dependencies
